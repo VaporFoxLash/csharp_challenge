@@ -1,0 +1,11 @@
+/home/yato/RiderProjects/donaldStep/donaldStep/bin/Debug/netcoreapp3.0/donaldStep
+/home/yato/RiderProjects/donaldStep/donaldStep/bin/Debug/netcoreapp3.0/donaldStep.deps.json
+/home/yato/RiderProjects/donaldStep/donaldStep/bin/Debug/netcoreapp3.0/donaldStep.runtimeconfig.json
+/home/yato/RiderProjects/donaldStep/donaldStep/bin/Debug/netcoreapp3.0/donaldStep.runtimeconfig.dev.json
+/home/yato/RiderProjects/donaldStep/donaldStep/bin/Debug/netcoreapp3.0/donaldStep.dll
+/home/yato/RiderProjects/donaldStep/donaldStep/bin/Debug/netcoreapp3.0/donaldStep.pdb
+/home/yato/RiderProjects/donaldStep/donaldStep/obj/Debug/netcoreapp3.0/donaldStep.csprojAssemblyReference.cache
+/home/yato/RiderProjects/donaldStep/donaldStep/obj/Debug/netcoreapp3.0/donaldStep.AssemblyInfoInputs.cache
+/home/yato/RiderProjects/donaldStep/donaldStep/obj/Debug/netcoreapp3.0/donaldStep.AssemblyInfo.cs
+/home/yato/RiderProjects/donaldStep/donaldStep/obj/Debug/netcoreapp3.0/donaldStep.dll
+/home/yato/RiderProjects/donaldStep/donaldStep/obj/Debug/netcoreapp3.0/donaldStep.pdb
